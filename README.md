@@ -1,8 +1,17 @@
 - 👋 Hi, I’m Kaduki
-- 👀 I’m interested in C++, C#, JavaScript
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in<br>
+  - C++
+  - C#
+  - JavaScript
+
+- 🌱 I’m currently learning <br>
+  - C#
+  - JavaScript
+  - Discord Bot
+  - LINE Bot
+  - .NET(C#)
+- 📫 How to reach me
+  - [LinkedIn](https://www.linkedin.com/in/kaduki-sako-a47351295/)
 
 <!---
 oglv/oglv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
