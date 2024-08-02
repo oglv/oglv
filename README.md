@@ -11,7 +11,6 @@
   - LINE Bot
   - .NET(C#)
 - 📫 How to reach me
-  - [LinkedIn](https://www.linkedin.com/in/kaduki-sako-a47351295/)
 
 <!---
 oglv/oglv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
