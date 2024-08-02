@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kaduki
+- 👋 Hi, I’m oglv
 - 👀 I’m interested in<br>
   - C++
   - C#
